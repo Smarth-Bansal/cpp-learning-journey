@@ -1,0 +1,20 @@
+# MacOS / OS specific files
+.DS_Store
+
+# C++ Build Artifacts & Binaries
+# Ignores the compiled executable shown in your ch04 folder
+quiz_solutions
+# Generic rule to ignore extensionless compiled files (common on macOS/Linux)
+*.out
+*.exe
+*.o
+*.obj
+
+# Debug Symbols (macOS/Clang)
+# Ignores the quiz_solutions.dSYM folder entirely
+*.dSYM/
+
+# IDE / Editor configurations (Optional but highly recommended)
+# Un-comment the line below if you don't want to commit your personal VS Code settings
+.vscode/
+.clang-format
