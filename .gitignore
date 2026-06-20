@@ -18,3 +18,9 @@ quiz_solutions
 # Un-comment the line below if you don't want to commit your personal VS Code settings
 .vscode/
 .clang-format
+
+# Ignore all compiled binaries and folders inside the cses directory
+competitive-programming/cses/*
+
+# DO NOT ignore your actual C++ source code files
+!competitive-programming/cses/*.cpp
