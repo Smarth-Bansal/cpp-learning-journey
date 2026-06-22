@@ -4,6 +4,7 @@
 # C++ Build Artifacts & Binaries
 # Ignores the compiled executable shown in your ch04 folder
 quiz_solutions
+practice.cpp
 # Generic rule to ignore extensionless compiled files (common on macOS/Linux)
 *.out
 *.exe
