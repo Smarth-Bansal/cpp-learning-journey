@@ -1,6 +1,6 @@
 # Low-Level C++ Learning Journey
 
-Repository dedicated to mastering C++, memory optimization, and low-latency systems engineering, transitioning from a strong foundation in Python.
+Repository dedicated to mastering C++, memory optimization, and low-latency systems engineering, transitioning from a strong foundation in Python programming.
 
 ## 🛠️ Repository Organization
 
