@@ -25,3 +25,5 @@ competitive-programming/cses/*
 
 # DO NOT ignore your actual C++ source code files
 !competitive-programming/cses/*.cpp
+
+practice
